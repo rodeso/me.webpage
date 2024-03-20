@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+
+@font-face {
+  font-family: "Monomod";
+  src: url("../fonts/monomod/Monomod.otf") format("opentype")
+}
+
+body, font, a, code {
+  font-family: "Roboto Mono";
+  font-size: large;
+}
+a {
+  color: white;
+}
